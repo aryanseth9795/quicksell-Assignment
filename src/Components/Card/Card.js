@@ -1,6 +1,6 @@
 import React from 'react';
 import './Card.css';
-import { ReactComponent as FeatureRequestIcon } from '../../assets/add.svg';
+
 import { ReactComponent as UrgentIcon } from '../../assets/SVG - Urgent Priority grey.svg';
 import { ReactComponent as HighIcon } from '../../assets/Img - High Priority.svg';
 import { ReactComponent as MediumIcon } from '../../assets/Img - Medium Priority.svg';
